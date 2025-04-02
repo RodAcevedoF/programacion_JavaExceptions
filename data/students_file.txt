@@ -1,0 +1,4 @@
+name=rod,age=34,course=JAVA
+name=papa,age=36,course=RUST
+name=lolo,age=58,course=C
+name=pola,age=45,course=PHP
